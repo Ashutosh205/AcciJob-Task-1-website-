@@ -1,0 +1,1210 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: black;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    width: 1480px;
+    height: 63px;
+    position: absolute;
+    top: 18px;
+    left: 19px;
+    border-radius: 50px;
+    border: 1px solid #B1A592;
+}
+
+.btn {
+    width: 282px;
+    height: 50px;
+    position: absolute;
+    top: 7px;
+    left: 6px;
+    border-radius: 50px;
+    background: #323025;
+}
+
+.btn-text {
+    width: 108px;
+    height: 29px;
+    position: absolute;
+    top: 10px;
+    left: 85px;
+    color: #B1A592;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.btn1 {
+    width: 236px;
+    height: 50px;
+    position: absolute;
+    top: 7px;
+    left: 296px;
+    border-radius: 50px;
+    background: #B1A592;
+}
+
+.btn-text1 {
+    width: 126px;
+    height: 29px;
+    position: absolute;
+    top: 13px;
+    left: 64px;
+    color: #333333;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.btn2 {
+    width: 207px;
+    height: 50px;
+    position: absolute;
+    top: 6px;
+    left: 540px;
+    border-radius: 50px;
+    border: 1px solid #B1A592
+}
+
+.btn-text2 {
+    width: 64px;
+    height: 29px;
+    position: absolute;
+    top: 13px;
+    left: 74px;
+    color: #B1A592;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.btn3 {
+    width: 184px;
+    height: 50px;
+    position: absolute;
+    top: 6px;
+    left: 757px;
+    border-radius: 50px;
+    border: 1px solid #B1A592
+}
+
+.btn-text3 {
+    width: 77px;
+    height: 29px;
+    position: absolute;
+    top: 12px;
+    left: 60px;
+    color: #B1A592;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.btn4 {
+    width: 184px;
+    height: 50px;
+    position: absolute;
+    top: 6px;
+    left: 1280px;
+    border-radius: 50px;
+    border: 1px solid #B1A592;
+}
+
+.btn-text4 {
+    width: 91px;
+    height: 29px;
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    color: #B1A592;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.village {
+    width: 700px;
+    height: 902px;
+    position: absolute;
+    top: 99px;
+    left: 30px;
+    border-radius: 30px;
+    background: #DFD6C5;
+
+}
+
+.lorem-ipsum {
+    width: 207px;
+    height: 34px;
+    position: absolute;
+    top: 45px;
+    left: 20px;
+    border-radius: 50px;
+    border: 1px solid #323025
+}
+
+.lorem {
+    width: 146px;
+    height: 24px;
+    position: absolute;
+    top: 6px;
+    left: 35px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #323025;
+}
+
+.lorem-ipsum-heading {
+    width: 271px;
+    height: 29px;
+    position: absolute;
+    top: 90px;
+    left: 20px;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: underline;
+    color: #333333;
+}
+
+.village-img img {
+    width: 670px;
+    height: 670px;
+    position: absolute;
+    top: 136px;
+    left: 14px;
+    border-radius: 20px;
+}
+
+.line {
+    width: 699px;
+    height: 0px;
+    position: absolute;
+    top: 835px;
+    left: 0px;
+    border: 1px solid #333333;
+}
+
+.get-started {
+    width: 133px;
+    height: 29px;
+    position: absolute;
+    top: 855px;
+    left: 23px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.arrow img {
+    width: 25px;
+    height: 15px;
+    position: absolute;
+    top: 858px;
+    left: 653px;
+}
+
+.two-people-working {
+    width: 743px;
+    height: 356px;
+    position: absolute;
+    top: 99px;
+    left: 744px;
+    border-radius: 30px;
+    background: #8E886D;
+}
+
+.two-people-img img {
+    width: 380px;
+    height: 248px;
+    position: absolute;
+    top: 14px;
+    left: 352px;
+    border-radius: 20px
+}
+
+.lorem-ipsum1 {
+    width: 207px;
+    height: 34px;
+    position: absolute;
+    top: 25px;
+    left: 20px;
+    border-radius: 50px;
+    border: 1px solid #323025
+}
+
+.lorem1 {
+    width: 146px;
+    height: 24px;
+    position: absolute;
+    top: 6px;
+    left: 35px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #323025;
+}
+
+.lorem-ipsum-heading1 {
+    width: 271px;
+    height: 29px;
+    position: absolute;
+    top: 70px;
+    left: 25px;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: underline;
+    color: #333333;
+}
+
+.text1 {
+    width: 322px;
+    height: 19px;
+    position: absolute;
+    top: 118px;
+    left: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.text2 {
+    width: 322px;
+    height: 19px;
+    position: absolute;
+    top: 145px;
+    left: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.text3 {
+    width: 322px;
+    height: 19px;
+    position: absolute;
+    top: 170px;
+    left: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.line1 {
+    width: 742px;
+    height: 0px;
+    position: absolute;
+    top: 290px;
+    left: 0px;
+    border: 1px solid #333333
+}
+
+.get-started1 {
+    width: 194px;
+    height: 29px;
+    position: absolute;
+    top: 305px;
+    left: 24px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.arrow1 img {
+    width: 36px;
+    height: 15px;
+    position: absolute;
+    top: 314px;
+    left: 691px;
+    border: 2px;
+}
+
+.monallisa-p {
+    width: 359px;
+    height: 532px;
+    position: absolute;
+    top: 469px;
+    left: 748px;
+    border-radius: 30px;
+    background: #916E58;
+}
+
+.monallisa-img img {
+    width: 335px;
+    height: 190px;
+    position: absolute;
+    top: 13px;
+    left: 12px;
+    border-radius: 20px;
+}
+
+.portrait {
+    width: 304px;
+    height: 200px;
+    position: absolute;
+    top: 210px;
+    left: 16px;
+    font-size: 36px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.lorem-text1 {
+    width: 382px;
+    height: 220px;
+    position: absolute;
+    top: 266px;
+    left: 14px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.line2 {
+    width: 358px;
+    height: 0px;
+    position: absolute;
+    top: 465px;
+    border: 1px solid #333333;
+}
+
+.get-started2 {
+    width: 184px;
+    height: 17px;
+    position: absolute;
+    top: 484px;
+    left: 14px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.arrow2 img {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 487px;
+    left: 321px;
+}
+
+.person {
+    width: 371px;
+    height: 530px;
+    position: absolute;
+    top: 471px;
+    left: 1121px;
+    border-radius: 30px;
+    background: #B1A48E;
+}
+
+.lorem-ipsum2 {
+    width: 207px;
+    height: 35px;
+    position: absolute;
+    top: 23px;
+    left: 22px;
+    border-radius: 50px;
+    border: 1px solid #323025;
+}
+
+.lorem2 {
+    top: 6px;
+    left: 35px;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.person-img img {
+    width: 113px;
+    height: 113px;
+    position: absolute;
+    top: 45px;
+    left: 246px;
+    border-radius: 50%;
+}
+
+.portrait1 {
+    width: 304px;
+    height: 59px;
+    position: absolute;
+    top: 116px;
+    left: 25px;
+    font-size: 36px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.lorem-text2 {
+    width: 326px;
+    height: 286px;
+    position: absolute;
+    top: 179px;
+    left: 29px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.line3 {
+    width: 375px;
+    height: 0px;
+    position: absolute;
+    top: 464px;
+    border: 1px solid #333333;
+}
+
+.get-started3 {
+    width: 184px;
+    height: 17px;
+    position: absolute;
+    top: 483px;
+    left: 23px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.arrow3 img {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 486px;
+    left: 337px;
+}
+
+
+
+
+@media screen and (min-width: 768px) and (max-width:981px) {
+
+    .navbar {
+        width: 980px;
+        height: 63px;
+        position: absolute;
+        top: 18px;
+        left: 30px;
+        border-radius: 50px;
+        border: 1px solid #B1A592;
+    }
+
+
+    .btn1,
+    .btn3,
+    .btn4 {
+        display: none;
+    }
+
+    .btn {
+        width: 815px;
+        height: 50px;
+        position: absolute;
+        top: 7px;
+        left: 6px;
+        border-radius: 50px;
+        background: #323025;
+    }
+
+
+    .btn-text {
+        width: 100px;
+        height: 29px;
+        position: absolute;
+        top: 10px;
+        left: 360px;
+        color: #B1A592;
+
+    }
+
+    .btn2 {
+        width: 150px;
+        height: 50px;
+        position: absolute;
+        top: 6px;
+        left: 825px;
+        border-radius: 50px;
+        border: 1px solid #B1A592
+    }
+
+    .btn-text2 {
+        width: 64px;
+        height: 29px;
+        position: absolute;
+        top: 13px;
+        left: 50px;
+        color: #B1A592;
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+
+    .village {
+        width: 975px;
+        height: 520px;
+        position: absolute;
+        top: 99px;
+        left: 30px;
+        border-radius: 30px;
+        background: #DFD6C5;
+
+    }
+
+    .lorem-ipsum {
+        width: 207px;
+        height: 34px;
+        position: absolute;
+        top: 15px;
+        left: 20px;
+        border-radius: 50px;
+        border: 1px solid #323025
+    }
+
+
+    .lorem-ipsum-heading {
+        width: 280px;
+        height: 29px;
+        position: absolute;
+        top: 60px;
+        left: 25px;
+        font-size: 28px;
+        float: left;
+        font-weight: 700;
+        text-decoration: underline;
+        color: #333333;
+    }
+
+    .village-img img {
+        width: 945px;
+        height: 300px;
+        position: absolute;
+        top: 115px;
+        left: 14px;
+        border-radius: 20px;
+
+
+    }
+
+    .line {
+        width: 975px;
+        height: 0px;
+        position: absolute;
+        top: 430px;
+        left: 0px;
+        border: 1px solid #333333;
+    }
+
+    .get-started {
+        width: 133px;
+        height: 29px;
+        position: absolute;
+        top: 455px;
+        left: 23px;
+        font-size: 28px;
+        font-weight: 400;
+        color: #333333;
+    }
+
+    .arrow img {
+        width: 36px;
+        height: 15px;
+        position: absolute;
+        top: 460px;
+        left: 900px;
+        border: 2px;
+    }
+
+
+    .two-people-working {
+        width: 975px;
+        height: 520px;
+        position: absolute;
+        top: 650px;
+        left: 30px;
+        border-radius: 30px;
+        background: #8E886D;
+    }
+
+    .two-people-img img {
+        width: 380px;
+        height: 348px;
+        position: absolute;
+        top: 30px;
+        left: 560px;
+        border-radius: 20px
+    }
+
+
+    .lorem1 {
+        width: 207px;
+        height: 34px;
+        position: absolute;
+        top: 6px;
+        left: 35px;
+        font-size: 20px;
+        font-weight: 300;
+        color: #323025;
+    }
+
+    .lorem-ipsum-heading1 {
+        width: 280px;
+        height: 29px;
+        position: absolute;
+        top: 70px;
+        left: 25px;
+        font-size: 28px;
+        font-weight: 700;
+        text-decoration: underline;
+        color: #333333;
+    }
+
+    .text1 {
+        width: 478px;
+        height: 19px;
+        font-size: 29px;
+        top: 150px;
+    }
+
+    .text2 {
+        width: 478px;
+        height: 19px;
+        font-size: 29px;
+        top: 240px;
+
+    }
+
+    .text3 {
+        width: 478px;
+        height: 19px;
+        font-size: 29px;
+        top: 330px;
+    }
+
+    .line1 {
+        width: 975px;
+        height: 0px;
+        position: absolute;
+        top: 400px;
+        left: 0px;
+        border: 1px solid #333333;
+    }
+
+    .get-started1 {
+        width: 133px;
+        height: 29px;
+        position: absolute;
+        top: 450px;
+        left: 23px;
+        font-size: 28px;
+        font-weight: 400;
+        color: #333333;
+    }
+
+    .arrow1 img {
+        width: 36px;
+        height: 15px;
+        position: absolute;
+        top: 460px;
+        left: 900px;
+        border: 2px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .monallisa-p {
+        width: 450px;
+        height: 650px;
+        position: absolute;
+        top: 1200px;
+        left: 30px;
+        border-radius: 30px;
+        background: #916E58;
+    }
+
+    .monallisa-img img {
+        width: 424px;
+        height: 252px;
+        position: absolute;
+        top: 13px;
+        left: 12px;
+        border-radius: 20px;
+    }
+
+    .portrait {
+        width: 304px;
+        height: 200px;
+        position: absolute;
+        top: 261px;
+        left: 16px;
+        font-size: 36px;
+        font-weight: 700;
+        text-decoration: underline;
+    }
+
+
+    .lorem-text1 {
+        width: 400px;
+        height: 220px;
+        position: absolute;
+        top: 305px;
+        left: 14px;
+        font-size: 24px;
+        font-weight: 400;
+        color: #333333;
+    }
+
+    .line2 {
+        width: 450px;
+        height: 0px;
+        position: absolute;
+        top: 565px;
+        border: 1px solid #333333;
+    }
+
+    .get-started2 {
+        width: 133px;
+        height: 29px;
+        position: absolute;
+        top: 589px;
+        left: 23px;
+        font-size: 28px;
+        font-weight: 400;
+        color: #333333;
+    }
+
+
+    .arrow2 img {
+        width: 36px;
+        height: 15px;
+        position: absolute;
+        top: 601px;
+        left: 391px;
+        border: 2px;
+    }
+
+
+
+
+
+    .person {
+        width: 450px;
+        height: 650px;
+        position: absolute;
+        top: 1200px;
+        left: 550px;
+        border-radius: 30px;
+        background: #B1A48E;
+    }
+
+    .person-img img {
+        width: 113px;
+        height: 113px;
+        position: absolute;
+        top: 16px;
+        left: 326px;
+        border-radius: 50%;
+    }
+
+    .lorem-text2 {
+        width: 400px;
+        height: 286px;
+        position: absolute;
+        top: 201px;
+        left: 29px;
+        font-size: 22px;
+        font-weight: 400;
+        color: #333333;
+    }
+
+    .line3 {
+        width: 450px;
+        height: 0px;
+        position: absolute;
+        top: 565px;
+        border: 1px solid #333333;
+    }
+
+    .get-started3 {
+        width: 133px;
+        height: 29px;
+        position: absolute;
+        top: 589px;
+        left: 23px;
+        font-size: 28px;
+        font-weight: 400;
+        color: #333333;
+    }
+
+    .arrow3 img {
+        width: 36px;
+        height: 15px;
+        position: absolute;
+        top: 601px;
+        left: 391px;
+    }
+
+
+}
+
+
+@media screen and (min-width:480px) and (max-width: 768px) {
+
+    .navbar {
+        width: 767px;
+        height: 63px;
+        position: absolute;
+        top: 18px;
+        left: 34px;
+    }
+
+    .btn {
+        width: 538px;
+        height: 50px;
+        position: absolute;
+        top: 7px;
+        left: 6px;
+        border-radius: 50px;
+        background: #323025;
+    }
+
+    .btn-text {
+        width: 108px;
+        height: 29px;
+        position: absolute;
+        top: 10px;
+        left: 213px;
+    }
+
+    .btn1 {
+        display: none;
+    }
+
+    .btn2 {
+        width: 207px;
+        height: 50px;
+        position: absolute;
+        top: 6px;
+        left: 552px;
+        border-radius: 50px;
+    }
+
+    .btn3 {
+        display: none;
+    }
+
+    .btn4 {
+        display: none;
+    }
+
+    .village {
+        width: 767px;
+        height: 982px;
+        position: absolute;
+        top: 119px;
+        left: 34px;
+    }
+
+    .lorem-ipsum {
+        width: 422px;
+        height: 78px;
+        position: absolute;
+        top: 45px;
+        left: 20px;
+    }
+
+    .lorem {
+        width: 146px;
+        height: 24px;
+        position: absolute;
+        top: 6px;
+        left: 35px;
+        font-size: 55px;
+    }
+
+    .lorem-ipsum-heading {
+        width: 592px;
+        height: 29px;
+        position: absolute;
+        top: 141px;
+        left: 20px;
+        font-size: 60px;
+    }
+
+    .village-img img {
+        width: 735px;
+        height: 557px;
+        position: absolute;
+        top: 253px;
+        left: 17px;
+        border-radius: 41px;
+    }
+
+    .line {
+        width: 767px;
+        height: 0px;
+        position: absolute;
+        top: 874px;
+    }
+
+    .get-started {
+        width: 261px;
+        height: 29px;
+        position: absolute;
+        top: 906px;
+        left: 45px;
+        font-size: 40px;
+    }
+
+    .arrow img {
+        width: 56px;
+        height: 21px;
+        position: absolute;
+        top: 930px;
+        left: 675px;
+    }
+
+    .two-people-working {
+        width: 767px;
+        height: 787px;
+        position: absolute;
+        top: 1122px;
+        left: 34px;
+    }
+
+    .two-people-img img {
+        width: 720px;
+        height: 339px;
+        position: absolute;
+        top: 290px;
+        left: 25px;
+        border-radius: 30px;
+    }
+
+    .lorem-ipsum1 {
+        width: 422px;
+        height: 78px;
+    }
+
+    .lorem1 {
+        width: 146px;
+        height: 24px;
+        position: absolute;
+        top: 6px;
+        left: 35px;
+        font-size: 55px;
+    }
+
+    .lorem-ipsum-heading1 {
+        width: 592px;
+        height: 29px;
+        position: absolute;
+        top: 110px;
+        left: 25px;
+        font-size: 60px;
+    }
+
+    .lorem-text {
+        width: 322px;
+        height: 19px;
+        position: absolute;
+        top: 75px;
+        left: 8px;
+        font-size: 20px;
+    }
+
+
+    .line1 {
+        width: 767px;
+        height: 0px;
+        position: absolute;
+        top: 668px;
+        left: 0px;
+        border: 1px solid #333333
+    }
+
+    .get-started1 {
+        width: 194px;
+        height: 29px;
+        position: absolute;
+        top: 710px;
+        left: 43px;
+        font-size: 40px;
+    }
+
+    .arrow1 img {
+        width: 56px;
+        height: 21px;
+        position: absolute;
+        top: 728px;
+        left: 658px;
+        border: 2px;
+    }
+
+    .monallisa-p {
+        width: 767px;
+        height: 1090px;
+        position: absolute;
+        top: 1937px;
+        left: 34px;
+    }
+
+    .monallisa-img img {
+        width: 735px;
+        height: 345px;
+        position: absolute;
+        top: 24px;
+        left: 18px;
+        border-radius: 30px;
+    }
+
+    .portrait {
+        width: 304px;
+        height: 59px;
+        position: absolute;
+        top: 380px;
+        left: 21px;
+        font-size: 61px;
+    }
+
+    .lorem-text1 {
+        width: 686px;
+        height: 447px;
+        position: absolute;
+        top: 466px;
+        left: 28px;
+        font-size: 42px;
+    }
+
+    .line2 {
+        width: 757px;
+        height: 0px;
+        position: absolute;
+        top: 947px;
+    }
+
+    .get-started2 {
+        width: 184px;
+        height: 17px;
+        position: absolute;
+        top: 1001px;
+        left: 33px;
+        font-size: 40px;
+    }
+
+    .arrow2 img {
+        width: 36px;
+        height: 19px;
+        position: absolute;
+        top: 1008px;
+        left: 680px;
+    }
+
+    .person {
+        width: 767px;
+        height: 865px;
+        position: absolute;
+        top: 3053px;
+        left: 34px;
+    }
+
+    .lorem-ipsum2 {
+        width: 207px;
+        height: 35px;
+        position: absolute;
+        top: 23px;
+        left: 22px;
+        border-radius: 50px;
+    }
+
+    .lorem2 {
+        top: 6px;
+        left: 35px;
+        position: absolute;
+        font-size: 20px;
+    }
+
+    .person-img img {
+        width: 113px;
+        height: 113px;
+        position: absolute;
+        top: 45px;
+        left: 613px;
+        border-radius: 50%;
+    }
+
+    .portrait1 {
+        width: 304px;
+        height: 59px;
+        position: absolute;
+        top: 156px;
+        left: 25px;
+        font-size: 48px;
+    }
+
+    .lorem-text2 {
+        width: 546px;
+        height: 286px;
+        position: absolute;
+        top: 225px;
+        left: 29px;
+        font-size: 32px;
+    }
+
+    .line3 {
+        width: 767px;
+        height: 0px;
+        position: absolute;
+        top: 742px;
+    }
+
+    .get-started3 {
+        width: 184px;
+        height: 17px;
+        position: absolute;
+        top: 776px;
+        left: 23px;
+        font-size: 40px;
+    }
+
+    .arrow3 img {
+        width: 36px;
+        height: 19px;
+        position: absolute;
+        top: 795px;
+        left: 678px;
+    }
+}
