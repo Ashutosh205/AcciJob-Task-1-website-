@@ -1,0 +1,687 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    min-height: 100vh;
+}
+
+.bg {
+    width: 230.8px;
+    height: 1080px;
+    background: #000000;
+
+}
+.logo img {
+    width: 131px;
+    height: 40px;
+    position: absolute;
+    top: 19px;
+    left: 24px;
+}
+
+.items1 {
+    width: 347.1px;
+    height: 170.46px;
+}
+
+.home {
+    width: 186px;
+    height: 40px;
+    position: absolute;
+    top: 84px;
+    left: 13px;
+    background: #282828;
+    display: flex;
+}
+
+.home img {
+    width: 24px;
+    height: 24px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 9px;
+}
+
+.home p {
+    width: 39px;
+    height: 16px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #ffffff;
+    padding-top: 12px;
+}
+
+.search {
+    width: 216px;
+    height: 40px;
+    position: absolute;
+    top: 124px;
+    left: 8px;
+    display: flex;
+}
+
+.search img {
+    width: 24px;
+    height: 24px;
+    padding-left: 20px;
+    padding-right: 15px;
+    padding-top: 15px;
+    opacity: 70%;
+}
+
+.search p {
+    width: 72.88px;
+    height: 30.88px;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    opacity: 70%;
+    margin-top: 18px;
+}
+
+p {
+    margin: 0px;
+}
+
+.your-library {
+    width: 216px;
+    height: 40px;
+    position: absolute;
+    top: 164px;
+    left: 8px;
+    display: flex;
+}
+
+.your-library img {
+    width: 24px;
+    height: 24px;
+    padding-left: 20px;
+    padding-right: 15px;
+    padding-top: 15px;
+    opacity: 70%;
+}
+
+.your-library p {
+    width: 72.88px;
+    height: 30.88px;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    opacity: 70%;
+    margin-top: 18px;
+}
+
+.items2 {
+    width: 209.99px;
+    height: 160.58px;
+}
+
+.playlist p {
+    width: 72px;
+    height: 16px;
+    position: absolute;
+    top: 258px;
+    left: 24px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #B3B3B3;
+}
+
+.create-playlist {
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: 296px;
+    left: 23px;
+    background: white;
+    display: flex;
+    border-radius: 1px;
+}
+
+.create-playlist img {
+    width: 29.65px;
+    height: 29.65px;
+    padding-right: 25px;
+    opacity: 70%;
+}
+
+.create-playlist p {
+    width: 72.88px;
+    height: 30.88px;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    opacity: 70%;
+    margin-top: 7px;
+}
+
+.liked-song {
+    width: 230px;
+    height: 42px;
+    position: absolute;
+    top: 348px;
+    left: 23px;
+    display: flex;
+}
+
+.liked-song img {
+    width: 22px;
+    height: 22px;
+    padding: 5px;
+    margin-right: 25px;
+    background: linear-gradient(135deg, #4000F4 0%, #603AED 22.48%, #7C6EE6 46.93%, #979FE1 65.71%, #A2B3DE 77.68%, #ADC8DC 88.93%, #C0ECD7 100%);
+    border-radius: 1px;
+    opacity: 70%;
+}
+
+.liked-song p {
+    width: 72.88px;
+    height: 30.88px;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    opacity: 70%;
+    margin-top: 7px;
+}
+
+.rectangle {
+    width: 184px;
+    height: 1px;
+    position: absolute;
+    top: 398px;
+    left: 24px;
+    background: #282828;
+}
+
+.girl-img img {
+    width: 230px;
+    height: 230px;
+    position: absolute;
+    top: 757px;
+}
+
+.bg1 {
+    width: 1500px;
+    height: 1116.5px;
+    top: -6px;
+    left: 17px;
+    border: 1px;
+    background: linear-gradient(to bottom, #4a966dd2 5%, #000000 50%);
+   
+}
+
+.pop-right {
+    width: 230.97px;
+    height: 233.07px;
+    position: absolute;
+    top: 145.92px;
+    left: 265.54px;
+}
+
+.sect {
+    display: flex;
+}
+
+
+
+.play1 {
+    width: 607px;
+    height: 114px;
+    position: absolute;
+    top: 230.5px;
+    left: 560px;
+    font-size: 13px;
+    font-weight: 900;
+    color: white;
+}
+
+.pop-right-now {
+    width: 607px;
+    height: 114px;
+    position: absolute;
+    top: 251.5px;
+    left: 560.76px;
+    font-size: 90px;
+    font-weight: 900;
+    color: white;
+}
+
+.lorem {
+    width: 426.21px;
+    height: 21px;
+    position: absolute;
+    top: 365px;
+    left: 560px;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 70%;
+}
+
+.spotify-likes {
+    width: 700px;
+    height: 22px;
+    position: absolute;
+    top: 390px;
+    left: 560px;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    display: flex;
+}
+
+.spotify-likes p {
+    margin-right: 5px;
+}
+
+.dot {
+    width: 4px;
+    height: 4px;
+    opacity: 0.7px;
+    margin-top: 7px;
+    margin-right: 5px;
+    background: white;
+    border-radius: 2px;
+}
+
+.play2 img {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 467px;
+    left: 295px;
+    background: #1DB954;
+    border-radius: 50px;
+    padding: 23px;
+}
+
+.heart2 {
+    width: 46px;
+    height: 46px;
+    position: absolute;
+    top: 479px;
+    left: 382px;
+}
+
+.more_big {
+    width: 46px;
+    height: 46px;
+    position: absolute;
+    top: 480px;
+    left: 432px;
+    opacity: 0.7px;
+}
+
+.line {
+    width: 1400px;
+    height: 1px;
+    position: absolute;
+    top: 580px;
+    left: 282px;
+    opacity: 20%;
+    background: white;
+}
+
+.title {
+    width: 80px;
+    height: 20px;
+    color: white;
+    position: absolute;
+    top: 573px;
+    left: 292px;
+    font-size: 12px;
+    font-weight: 400;
+    opacity: 80%;
+    letter-spacing: 2px;
+}
+
+.album {
+    width: 42.3px;
+    height: 15.51px;
+    position: absolute;
+    top: 573px;
+    left: 860px;
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+    opacity: 80%;
+    letter-spacing: 2px;
+}
+
+.date-added {
+    width: 96.3px;
+    height: 15.51px;
+    position: absolute;
+    top: 573px;
+    left: 1280px;
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+    opacity: 80%;
+    letter-spacing: 2px;
+}
+
+.music {
+    width: 1389px;
+    height: 54px;
+    position: absolute;
+    top: 601px;
+    left: 275px;
+    border-radius: 5px;
+    background: rgb(30, 28, 28);
+}
+
+.btn2 img {
+    width: 14.08px;
+    height: 12.54px;
+    position: absolute;
+    top: 20px;
+    left: 27.6px;
+}
+
+.thunder-img1 img {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 7px;
+    left: 55.63px;
+}
+
+.we-re-good {
+    width: 95.68px;
+    height: 19px;
+    position: absolute;
+    top: 10px;
+    left: 106.49px;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+}
+
+.moonlight {
+    width: 238.83px;
+    height: 18px;
+    position: absolute;
+    top: 18px;
+    left: 510px;
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+}
+
+.date-added1 {
+    width: 31.82px;
+    height: 21px;
+    position: absolute;
+    top: 16px;
+    left: 1037.3px;
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+}
+
+.heart3 img {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 16px;
+    left: 1275.37px;
+}
+
+.time3 {
+    width: 26.71px;
+    height: 19px;
+    position: absolute;
+    top: 20px;
+    left: 1312.77px;
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    opacity: 70%;
+}
+
+.dot1 {
+    width: 21.37px;
+    height: 24px;
+    position: absolute;
+    top: 6px;
+    left: 1340.17px;
+}
+
+.music1 {
+    width: 1405px;
+    height: 54px;
+    position: absolute;
+    top: 665px;
+    left: 276px;
+}
+
+.list1 {
+    display: flex;
+}
+
+.music2 {
+    width: 1405px;
+    height: 54px;
+    position: absolute;
+    top: 725px;
+    left: 276px;
+}
+
+.music3 {
+    width: 1405px;
+    height: 54px;
+    position: absolute;
+    top: 785px;
+    left: 276px;
+}
+
+.music4 {
+    width: 1405px;
+    height: 54px;
+    position: absolute;
+    top: 845px;
+    left: 276px;
+}
+
+.music5 {
+    width: 1405px;
+    height: 54px;
+    position: absolute;
+    top: 905px;
+    left: 276px;
+}
+
+.music6 {
+    width: 1405px;
+    height: 54px;
+    position: absolute;
+    top: 965px;
+    left: 276px;
+}
+
+.text1 {
+    width: 8.01px;
+    height: 19px;
+    position: absolute;
+    top: 19.29px;
+    left: 25.46px;
+    opacity: 70%;
+    color: white;
+}
+
+.car-img1 img {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 7px;
+    left: 55.63px;
+}
+
+.item5 {
+    width: 1731px;
+    height: 93px;
+    /* top: 1026px; */
+    position: fixed;
+    bottom: 0px;
+    /* top: 1015px; */
+    left: 0px;
+    border-radius: 1px;
+    background: #181818;
+    display: flex;
+}
+
+.list2 {
+    width: 262.88px;
+    height: 70px;
+    display: flex;
+}
+
+.thunder-img img {
+    width: 59px;
+    height: 60px;
+    margin: 20px 20px 10px 20px;
+}
+
+.hold {
+    width: 84.74px;
+    height: 19px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700px;
+    margin-top: 35px;
+}
+
+.justin {
+    width: 87.74px;
+    height: 19px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #B3B3B3;
+    margin-top: 5px;
+}
+
+.heart1 img {
+    width: 24px;
+    height: 24px;
+    margin-top: 45px;
+    margin-right: 10px;
+}
+
+.tv-img img {
+    width: 24px;
+    height: 24px;
+    margin-top: 45px;
+}
+
+.raphael_shuffle {
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    top: 27px;
+    left: 715px;
+}
+
+.previous {
+    width: 17px;
+    height: 17px;
+    position: absolute;
+    top: 29px;
+    left: 757px;
+}
+
+.play {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 20px;
+    left: 795px;
+}
+
+.afterwards {
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    top: 28px;
+    left: 853px;
+}
+
+.repeat {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 28px;
+    left: 898px;
+}
+
+.time1 {
+    width: 31px;
+    height: 19px;
+    position: absolute;
+    top: 63px;
+    left: 463px;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+}
+
+.progress-bar {
+    width: 620px;
+    height: 5px;
+    position: absolute;
+    top: 69px;
+    left: 499px;
+    border-radius: 2.5px;
+    background: #C4C4C4;
+}
+
+.time2 {
+    width: 31px;
+    height: 19px;
+    position: absolute;
+    top: 65px;
+    left: 1130px;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+}
+
+.list4 {
+    width: 250.76px;
+    height: 32px;
+    position: absolute;
+    top: 40px;
+    left: 1230.15px;
+}
+
+.query-queue {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 5px;
+}
+
+.pc-img {
+    width: 25px;
+    height: 20px;
+    position: absolute;
+    bottom: 5px;
+    left: 45px;
+}
+
+.fluent-speaker {
+    width: 21.59px;
+    height: 24px;
+    position: absolute;
+    bottom: 2px;
+    left: 85px;
+}
+
+.progress-bar1 {
+    width: 120px;
+    height: 5px;
+    position: absolute;
+    bottom: 10px;
+    left: 120.88px;
+    border-radius: 2.5px;
+    background: #C4C4C4;
+}
